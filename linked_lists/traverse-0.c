@@ -49,7 +49,5 @@ void count_of_nodes(struct node *head)
 	}
 	printf("\n");
 	printf("count of nodes is: %d\n", count);
-
 }
-
 
